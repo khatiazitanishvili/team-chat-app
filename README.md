@@ -1,6 +1,6 @@
 # Team-Chat Application
 
-**Team-Chat** is a dynamic and feature-rich platform designed for real-time communication. It offers the core features of chat and voice communication platforms and is suitable for both personal and professional use.
+**Team-Chat** is a dynamic and feature-rich platform designed for real-time communication. It offers the core features of chat and voice/video communication platforms and is suitable for both personal and professional use.
 
 **Live App:** [Team-Chat App](https://team-chat-app-production-d0f2.up.railway.app)
 
